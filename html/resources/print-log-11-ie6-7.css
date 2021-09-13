@@ -1,0 +1,58 @@
+#content-wrapper {
+  height:auto !important;
+  height:500px;
+}
+
+#content-11 {
+  height: 450px;
+  }
+#contentRelease {
+  height: 450px;
+  }
+
+.info-box {
+	width: 634px;
+	margin-right: 0px;
+}
+table.results, .table-box, .data-table{
+	width: 634px;
+	padding: 0px;
+	margin: 0px;
+}	
+.gadget {
+	position: relative;
+	left: -20px;
+	margin: 0px;
+	
+	}
+
+#mainnav .tabList {
+	padding-left: 20px;
+	margin-left: 0px;
+
+  }	
+
+
+#title-11 h1 {
+  padding-bottom: 3px;
+  }
+
+.tabList .tab {
+  zoom: 1; /* +hasLayout */
+  display: inline;
+  }
+  .tabList .tab .left,
+  .tabList .tab .content-wrapper,
+  .tabList .tab .right {
+    zoom: 1; /* +hasLayout */
+    display: inline;
+    }
+    .tabList .tab .content-wrapper .content {
+      zoom: 1; /* +hasLayout */
+      display: inline;
+      }
+
+table.results {
+	border-left: solid 1px #CECECE;
+}
+
